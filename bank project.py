@@ -52,5 +52,10 @@ main()
 
 
 'JHSJHLFHAJHFKJ'
+<<<<<<< HEAD
 kdjlkdjf
 ;ljflkhdfjet
+=======
+
+
+>>>>>>> d083d8c64b7c844037d72d51750967e2b25e8a14
